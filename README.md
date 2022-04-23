@@ -41,7 +41,7 @@ Versão única
 
 
 
-## 🎁 Expressões de gratidão
+## 🎁 Agradecimentos
 
 * Gratidão à equipe Rocketseat
 
