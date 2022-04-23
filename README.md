@@ -7,12 +7,15 @@ Projeto 02 do programa Explorer da Rockeseat.
 
 Figma : https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1
 
+Deploy: https://paru369.github.io/Treine.me/
+
 <img src="./Screenshot.png"> 
 
 
 ## 🚀 Começando
 
 Execultar index.html
+https://paru369.github.io/Treine.me/
 
 ### 📋 Pré-requisitos
 
