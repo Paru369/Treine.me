@@ -2,7 +2,10 @@
 
 # Treine.me - Plataforma de treinamentos
 
+Pagina web criada em HTML e CCS a partir de layout figma.
 Projeto 02 do programa Explorer da Rockeseat. 
+
+Figma : https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1
 
 <img src="./Screenshot.png"> 
 
@@ -34,7 +37,7 @@ Versão única
 
 ## ✒️ Autores
 
-
+ * **Rocketseat**
 
 * **Paulo Victor Pinheiro** - *Trabalho Inicial* - [Paru - Paulo Victor](https://www.linkedin.com/in/paulo-pinheiro-4a94b0150/)
 
