@@ -2,7 +2,7 @@
 
 # Treine.me - Plataforma de treinamentos
 
-Pagina web criada em HTML e CCS a partir de layout figma.
+Página web criada em HTML e CCS a partir de layout no figma.
 Projeto 02 do programa Explorer da Rockeseat. 
 
 Figma : https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1
@@ -14,12 +14,12 @@ Deploy: https://paru369.github.io/Treine.me/
 
 ## 🚀 Começando
 
-Execultar index.html
+Executar index.html
 https://paru369.github.io/Treine.me/
 
 ### 📋 Pré-requisitos
 
-Execultavel em qualquer navegador
+Executável em qualquer navegador
 
 ### 🔧 Instalação
 
@@ -27,7 +27,7 @@ Não carece de instalação
 
 ## 📦 Desenvolvimento
 
-É uma pagina HTML estilizada em CSS, aplicavel em qualquer sistema WEB
+É uma página HTML estilizada em CSS, aplicável em qualquer sistema WEB
 
 ## 🛠️ Construído com
 
