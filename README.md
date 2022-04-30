@@ -15,15 +15,7 @@ Deploy: https://paru369.github.io/Treine.me/
 ## 🚀 Começando
 
 Executar index.html
-https://paru369.github.io/Treine.me/
-
-### 📋 Pré-requisitos
-
-Executável em qualquer navegador
-
-### 🔧 Instalação
-
-Não carece de instalação
+Deploy: https://paru369.github.io/Treine.me/
 
 ## 📦 Desenvolvimento
 
